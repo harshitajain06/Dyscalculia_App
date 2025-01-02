@@ -1,6 +1,49 @@
-# Welcome to your Expo app 👋
+# Superpower App 🚀
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+The **Superpower App** is designed to help users explore and understand various learning disorders, with a focus on **dyscalculia**. The app includes interactive features such as collapsible sections, educational content, and visually engaging UI components.
+
+---
+
+## Features
+
+- 📖 **Informative Content**: Learn about dyscalculia, its symptoms, and how it affects individuals.  
+- 🎨 **Interactive UI**: Expandable sections for easy navigation of detailed information.  
+- 🌟 **User-Friendly Design**: Clean, responsive, and accessible interface.
+
+---
+
+## App Screenshots
+
+Here are some screenshots of the app:
+
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start;">
+  ## App Screenshots
+
+Here are some screenshots of the app:
+
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start;">
+    <img src="assets/images/13.jpeg" width="150" style="margin-right: 20px; margin-bottom: 20px;"/>
+   <img src="assets/images/17.jpg" width="150" style="margin-right: 20px; margin-bottom: 20px;"/>
+   <img src="assets/images/12.jpeg" width="150" style="margin-right: 20px; margin-bottom: 20px;"/>
+  <img src="assets/images/14.jpeg" width="150" style="margin-right: 20px; margin-bottom: 20px;"/>
+  <img src="assets/images/15.jpg" width="150" style="margin-right: 20px; margin-bottom: 20px;"/>
+  <img src="assets/images/1.jpeg" width="150" style="margin-right: 20px; margin-bottom: 20px;"/>
+  <img src="assets/images/2.jpeg" width="150" style="margin-right: 20px; margin-bottom: 20px;"/>
+  <img src="assets/images/3.jpeg" width="150" style="margin-right: 20px; margin-bottom: 20px;"/>
+  <img src="assets/images/4.jpeg" width="150" style="margin-right: 20px; margin-bottom: 20px;"/>
+  <img src="assets/images/5.jpeg" width="150" style="margin-right: 20px; margin-bottom: 20px;"/>
+  <img src="assets/images/6.jpeg" width="150" style="margin-right: 20px; margin-bottom: 20px;"/>
+  <img src="assets/images/7.jpeg" width="150" style="margin-right: 20px; margin-bottom: 20px;"/>
+  <img src="assets/images/8.jpeg" width="150" style="margin-right: 20px; margin-bottom: 20px;"/>
+  <img src="assets/images/9.jpeg" width="150" style="margin-right: 20px; margin-bottom: 20px;"/>
+  <img src="assets/images/10.jpeg" width="150" style="margin-right: 20px; margin-bottom: 20px;"/>
+  <img src="assets/images/11.jpeg" width="150" style="margin-right: 20px; margin-bottom: 20px;"/>
+  <img src="assets/images/16.jpg" width="150" style="margin-right: 20px; margin-bottom: 20px;"/>
+  <img src="assets/images/18.jpg" width="150" style="margin-right: 20px; margin-bottom: 20px;"/>
+  <img src="assets/images/19.jpg" width="150" style="margin-right: 20px; margin-bottom: 20px;"/>
+</div>
+
+</div>
 
 ## Get started
 
